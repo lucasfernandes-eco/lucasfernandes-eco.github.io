@@ -1,6 +1,6 @@
 Ph.D. Student in Economics | Applied Research | Monitoring, Evaluation and Learning (MEL)
 
-I am a Ph.D. student in Economics based in Brazil, working at the intersection of development economics, public policy, and applied evaluation. My work combines academic research and consulting practice, with experience in impact evaluation, quasi-experimental methods, longitudinal studies, survey design, and policy-oriented analysis.
+I am a Ph.D. student in Economics at UFRN, Brazil, working at the intersection of development economics, public policy, and applied evaluation. My work combines academic research and consulting practice, with experience in impact evaluation, quasi-experimental methods, longitudinal studies, survey design, and policy-oriented analysis.
 
 ## Research Interests
 
@@ -29,6 +29,5 @@ I am a Ph.D. student in Economics based in Brazil, working at the intersection o
 ## Contact
 
 - [GitHub](https://github.com/lucasfernandes-eco)
-- [LinkedIn](PASTE_YOUR_LINK_HERE)
-- [Lattes](PASTE_YOUR_LINK_HERE)
-- Email: PASTE_YOUR_EMAIL_HERE
+- [LinkedIn](https://www.linkedin.com/in/lucas-fernandes-0717b52b7/)
+- Email: lucas.fernandes.114@ufrn.edu.br
