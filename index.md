@@ -1,3 +1,5 @@
+![Lucas Fernandes](foto-perfil.png)
+
 # Lucas Fernandes
 
 Ph.D. Student in Economics | Applied Research | Monitoring, Evaluation and Learning (MEL)
